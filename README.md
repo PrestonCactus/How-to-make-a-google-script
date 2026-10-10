@@ -38,8 +38,12 @@ Google scripts are one of the best ways to use html files to get games, it also 
 18. schools don't usually block individual google scripts so your safe!
 
     
-Here are some free proxies that use google scripts to host them.
 
+
+## Free Proxies
+
+Here are some free proxies that use google scripts to host them.
+(to use these google script proxies you need an fcps laptop)
 
 **(Tung tung tung sahur)**
 
