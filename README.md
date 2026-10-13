@@ -39,5 +39,3 @@ Google scripts are one of the best ways to use html files to get games, it also 
 17. Click "Deploy" at the bottom right and you can click the link to see the script in action
 
 18. schools don't usually block individual google scripts so your safe!
-s/AKfycbw-OY94152YFzIgu77pKYeZxS9Ax11IPBPz7hDJUGIOaplPeYO8g6rOzhJkllghstFE/exec
-```
