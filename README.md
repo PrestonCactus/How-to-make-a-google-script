@@ -42,27 +42,5 @@ Google scripts are one of the best ways to use html files to get games, it also 
 
     
 
-
-## Free Proxies
-
-Here are some free proxies that use google scripts to host them.
-(to use these google script proxies you need an fcps laptop)
-
-**(Tung tung tung sahur)**
-
-```bash
-https://script.google.com/a/macros/fcpsschools.net/s/AKfycbyGS5qDFxenw2kGK2wGfn4AQrfR-3VHLvaqW1Te5IFbN_D2e3Y_sc4kV0-NPMWJ1xg0/exec
-```
-
-**(Opium)**
-
-```bash
-https://script.google.com/a/macros/fcpsschools.net/s/AKfycbxV_up8ZTn8_yVYFZx8sbBOTbT3q1UXqwdDBRL_Ac55IR4xOmZLLoE_-R2X9VefxtBC/exec
-```
-
-
-**(Dogeub)**
-
-```bash
-https://script.google.com/a/macros/fcpsschools.net/s/AKfycbw-OY94152YFzIgu77pKYeZxS9Ax11IPBPz7hDJUGIOaplPeYO8g6rOzhJkllghstFE/exec
+s/AKfycbw-OY94152YFzIgu77pKYeZxS9Ax11IPBPz7hDJUGIOaplPeYO8g6rOzhJkllghstFE/exec
 ```
